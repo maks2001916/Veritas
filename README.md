@@ -13,9 +13,6 @@
     <img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/home.png" width=40%>
     <img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/search.png" width=40%>
     <img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/searchTwo.png" width=40%>
-</div>
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
     <img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/result.png" width=40%>
     <img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/dictionaries.png" width=40%>
     <img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/dictCreate.png" width=40%>
