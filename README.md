@@ -9,6 +9,11 @@
 - возможность копирования открытой страницы в буфер обмена
 - возможность поделиться открытой страницей
 
+<img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/home.png" width=40%>
+<img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/search.png" width=40%>
+<img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/searchTwo.png" width=40%>
+
+
 ![home](https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/home.png)
 ![home](https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/search.png)
 ![home](https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/searchTwo.png)
