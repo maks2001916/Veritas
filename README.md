@@ -9,17 +9,17 @@
 - возможность копирования открытой страницы в буфер обмена
 - возможность поделиться открытой страницей
 
-<img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/home.png" width=40%>
-<img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/search.png" width=40%>
-<img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/searchTwo.png" width=40%>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/home.png" width=40%>
+    <img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/search.png" width=40%>
+    <img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/searchTwo.png" width=40%>
+</div>
 
-
-![home](https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/home.png)
-![home](https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/search.png)
-![home](https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/searchTwo.png)
-![home](https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/result.png)
-![home](https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/dictionaries.png)
-![home](https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/dictCreate.png)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/result.png" width=40%>
+    <img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/dictionaries.png" width=40%>
+    <img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/dictCreate.png" width=40%>
+</div>
 
 ## Установка
 1.  Клонируйте репозиторий:
