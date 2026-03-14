@@ -9,7 +9,12 @@
 - возможность копирования открытой страницы в буфер обмена
 - возможность поделиться открытой страницей
 
-![home](https://raw.githubusercontent.com/maks2001916/Veritas/55b1d27e1bc56d6379f1f10cc6abf3f3bec9a64b/Screenshot_20260313-101442.png)
+![home](https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/home.png)
+![home](https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/search.png)
+![home](https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/searchTwo.png)
+![home](https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/result.png)
+![home](https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/dictionaries.png)
+![home](https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/dictCreate.png)
 
 ## Установка
 1.  Клонируйте репозиторий:
