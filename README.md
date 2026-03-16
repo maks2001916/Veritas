@@ -1,0 +1,36 @@
+# Реализация вавилонской библиотеки на android
+В проекте реализованы таки функции как:
+- поиск места упоменания в библиотеке указанного фрагмента текста
+- поиск по регклярному выражению(regex)
+- смена словаря(символов которые содержит библиотека, встроено 5 словарей)
+- добавление пользовательских словарей
+- простмотр результатов поиска
+- навигация между результатами поиска(10 страниц)
+- возможность копирования открытой страницы в буфер обмена
+- возможность поделиться открытой страницей
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+    <img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/home.png" width=40%>
+    <img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/search.png" width=40%>
+    <img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/searchTwo.png" width=40%>
+    <img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/result.png" width=40%>
+    <img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/dictionaries.png" width=40%>
+    <img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/dictCreate.png" width=40%>
+</div>
+
+## Сборка из исходного кода
+1.  Клонируйте репозиторий:
+    ```bash
+    git clone https://github.com/maks2001916/Veritas.git
+    cd Veritas
+    ```
+2.  Откройте проект через Android Studio
+3.  Произведите загрузку зависимостей с помощью gradle
+4.  Запустите проект на эмуляторе или реальном устройстве
+## Структура проекта
+-   `/core/*`: Классы отвечающие за алгоритмы генерации страниц.
+-   `/ui/*`: Папки с классами для ui.
+-   `/util/extendions`: Класс вспомогательных методов.
+-   `/viewmodel/*`: Классы отвечающие за навигацию в приложении.
+## Лицензия
+Этот проект распространяется под лицензией MIT.
