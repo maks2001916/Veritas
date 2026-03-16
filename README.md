@@ -18,6 +18,9 @@
     <img src="https://raw.githubusercontent.com/maks2001916/Veritas/5d8d445f50b1a0778bb6154c5f1f13a25e2dcecf/dictCreate.png" width=40%>
 </div>
 
+## Использование
+Самый простой способ воспользоваться приложением это загрузить .APK фафл со страницы [релизов](https://github.com/maks2001916/Veritas/releases/tag/release)
+
 ## Сборка из исходного кода
 1.  Клонируйте репозиторий:
     ```bash
